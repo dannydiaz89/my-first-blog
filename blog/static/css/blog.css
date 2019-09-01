@@ -1,6 +1,6 @@
 h1 a, h2 a {
     color: #004e8c;
-    font-family: 'Lobster';
+    font-family: 'Poiret One';
 }
 body {
     padding-left: 15px;
@@ -23,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Poiret One', cursive;
 }
 
 .date {
